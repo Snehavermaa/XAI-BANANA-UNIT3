@@ -3,7 +3,7 @@
 ```markdown
 # Banana CNN Visualization: Saliency Maps & Activation Maximization
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/banana-cnn-visualization/blob/main/banana_visualization.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1wbZ6NQRR0N4A9UPJ9BLH-zwnA8g4bQ_A#scrollTo=IlAFW8WL3sNz)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
